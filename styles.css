@@ -1,0 +1,51 @@
+.Scrap{
+display: flex;  
+justify-content: space-between;
+  
+} 
+
+
+ .Metal{
+display: flex;
+flex-direction: column;
+padding-top: 20px; 
+} 
+.Metal input{
+padding: 5px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+ .Metal textarea{
+    padding: 5px;
+margin-top: 10px;
+margin-bottom: 10px;
+    } 
+
+.Metal button{
+background-color: black;
+color: white;
+}
+
+.Wire{
+margin-top: 269.4px;
+}
+
+.Bite{
+margin-top: 20px;
+}
+
+.Micheal{
+    margin-top: 254.78px;
+    padding: 50px;
+    /* display: flex;
+    justify-content: space-between; */
+    /* flex-direction: row; */
+}
+.Micheal i{
+padding: 20px;
+width: 46px;
+height: 46px;
+font-size: larger;
+}
+
